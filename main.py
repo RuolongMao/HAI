@@ -12,8 +12,6 @@ load_dotenv()
 
 app = FastAPI()
 
-os.environ.get("OPENAI_API_KEY")
-
 # Mount the static directory
 app.mount("/static", StaticFiles(directory="static"), name="static")
 
