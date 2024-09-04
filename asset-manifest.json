@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/my-app/static/css/main.c4052bc2.css",
-    "main.js": "/my-app/static/js/main.68ab14b8.js",
-    "static/js/453.419a5d54.chunk.js": "/my-app/static/js/453.419a5d54.chunk.js",
-    "index.html": "/my-app/index.html",
-    "main.c4052bc2.css.map": "/my-app/static/css/main.c4052bc2.css.map",
-    "main.68ab14b8.js.map": "/my-app/static/js/main.68ab14b8.js.map",
-    "453.419a5d54.chunk.js.map": "/my-app/static/js/453.419a5d54.chunk.js.map"
+    "main.css": "/course_tools_demo/static/css/main.c4052bc2.css",
+    "main.js": "/course_tools_demo/static/js/main.3b4e0e77.js",
+    "static/js/453.419a5d54.chunk.js": "/course_tools_demo/static/js/453.419a5d54.chunk.js",
+    "index.html": "/course_tools_demo/index.html",
+    "main.c4052bc2.css.map": "/course_tools_demo/static/css/main.c4052bc2.css.map",
+    "main.3b4e0e77.js.map": "/course_tools_demo/static/js/main.3b4e0e77.js.map",
+    "453.419a5d54.chunk.js.map": "/course_tools_demo/static/js/453.419a5d54.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c4052bc2.css",
-    "static/js/main.68ab14b8.js"
+    "static/js/main.3b4e0e77.js"
   ]
 }
